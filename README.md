@@ -5,6 +5,11 @@
 
 A very basic browser-based game framework depending on AngularJS, JQuery, Firebase (for Networking component)
 
+-Players can Set nicknames, Move, Attack, Level Up, Pick up items, Chat
+-Players can save/load progress by Authenticating with Facebook
+-Leaderboard support with online/offline status
+-Works on Mobile, Tablet & Desktop with responsive UI's for each
+
 Get Started:
 ```
 	<!-- JQuery, AngularJS, Firebase & AngularFire -->
